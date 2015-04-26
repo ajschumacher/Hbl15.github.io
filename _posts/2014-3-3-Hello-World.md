@@ -4,9 +4,9 @@ title: Why Metis? - A thorough analysis.
 ---
 ![Question Mark](/images/question.jpg)
 
-##Why a "Why Metis ?"-blog :##
+##Why I write a "Why Metis ?" blog :##
 
-~~Since this blog probably would never have existed if not for Metis, I thought naturally the first blog should be dedicated to Metis.~~
+<strike>Since this blog probably would never have existed if not for Metis, I thought naturally the first blog should be dedicated to Metis.</strike>
 
 Ok fine, I think the strongest reason is that after three weeks at Metis, I am loving it. So I just wanna talk about it.
 
@@ -48,7 +48,7 @@ So let's get right on to my selection process:
 
     Data Incubator is quite a famous program (well, at least it appear in the newspaper). It is a 7 weeks long program, and is free for its fellows. Sound great, isn't it? It is great, definitely. Just not for me.
 
-    I think there is "short", and there is "too short". Besides having a background in math (Master), I was only efficient at coding Maple, which if you look at all the job advertising requirement, Maple is no where to be found. I know that I need to learn a new programming language (Python), as well as all the basic skills for being a data scientis. And 7 weeks is just **too short**
+    I think there is "short", and there is "too short". Besides having a background in math (Master), I was only efficient at coding Maple, which if you look at all the job advertising requirement, Maple is no where to be found. I know that I need to learn a new programming language (Python), as well as all the basic skills for being a data scientis. And 7 weeks is just **too short .**
 
     I think deciding between these two programs does come down to knowing your own ability. (And also where you get accepted to.)
 
