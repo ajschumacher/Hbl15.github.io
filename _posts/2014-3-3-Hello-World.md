@@ -20,10 +20,9 @@ Ok fine, I think the strongest reason is that after three weeks at Metis, I am l
 
 * __Before Metis :__ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As many data-scientists-wanna-be, I went through the process of finding which program would be best for me. Even though data science is still relatively new field, there are many choices, such as : NYU data science program, Berkely data science online program, Data Incubator... and Metis.
-So let's get right on to my selection process:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As many data-scientists-wanna-be, I went through the process of finding which program would be best for me. Even though data science is still relatively new field, there are many choices, such as : NYU data science program, Berkely data science online program, Data Incubator... and Metis. So let's get right on to my selection process:
 		
-    ####1. Metis vs Berkeley program : 
+1. Metis vs Berkeley program : 
 
     This is quite an easy choice for me since I do not trust to put $60,000 for an online program.
 
@@ -32,7 +31,7 @@ So let's get right on to my selection process:
     So no, no online program for me.
 
 		
-    2. Metis vs a 2-3 years in school program (NYU, Columbia,...):
+2. Metis vs a 2-3 years in school program (NYU, Columbia,...):
 
     This is actually quite a tough choice. I do like to learn all my topics thoroughly, with proof, with explaination how one come up with such a formula. And this obviously can't be done at a 3 months program as Metis. I do think these programs are great. 
 
