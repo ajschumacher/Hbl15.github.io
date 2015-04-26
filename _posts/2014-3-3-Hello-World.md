@@ -38,14 +38,17 @@ Ok fine, I think the strongest reason is that after three weeks at Metis, I am l
     But even if I get to choose again, I will still choose Metis, for couple of reason:
 
     * Time: 
-    	It will take 2-3 years to finish these program. 
-        Data Science is seeing its popularity on the rise right now. With such popularity, within 2-3 years, the job market for this field will be extremly competitive. In stead of being in school learning theory, I rather be in the field learning real life experience. I think enriching my skills through the job than through text book will place me higher in the competitive scale 2 year from now.
+
+    It will take 2-3 years to finish these program. 
+    Data Science is seeing its popularity on the rise right now. With such popularity, within 2-3 years, the job market for this field will be extremly competitive. In stead of being in school learning theory, I rather be in the field learning real life experience. I think enriching my skills through the job than through text book will place me higher in the competitive scale 2 year from now.
 
     * Money:
-    	Metis costs $14,000 ($12,000 for women, hurray!!!) and 3 month of living expense. These in school program cost at least $60,000 and 2-3 years living expense. Enough said.
+
+    Metis costs $14,000 ($12,000 for women, hurray!!!) and 3 month of living expense. These in school program cost at least $60,000 and 2-3 years living expense. Enough said.
 
     * Personal preference : 
-    	I have been in school for quite a while. I think it's time for me to try something different (new experience is always a very good thing) 	
+    
+    I have been in school for quite a while. I think it's time for me to try something different (new experience is always a very good thing) 	
 
 3. Mestis vs Data Incubator:
 
