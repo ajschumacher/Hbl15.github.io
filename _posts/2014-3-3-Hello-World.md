@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Metis? - A thorough analysis.
+title: Why Metis? - A thorough analysis (Part 1).
 ---
 ![Question Mark](/images/question.jpg)
 
@@ -15,7 +15,7 @@ Ok fine, I think the strongest reason is that after three weeks at Metis, I am l
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am not told(/paid/forced/threaten... ;P) to write by anyone (but myself of course).
 
-##Reasons why I think Mestis is one of the best decisions I ever made:##
+##Reasons why I think Metis is one of the best decisions I ever made:##
 
 
 * __Before Metis :__ 
@@ -52,7 +52,7 @@ Ok fine, I think the strongest reason is that after three weeks at Metis, I am l
 
 3. Mestis vs Data Incubator:
 
-    Data Incubator is quite a famous program (well, at least it appear in the newspaper). It is a 7 weeks long program, and is free for its fellows. Sound great, isn't it? It is great, definitely. Just not for me.
+    Data Incubator is quite a famous program (well, at least it appeared in the newspaper). It is a 7 weeks long program, and is free for its fellows. Sound great, isn't it? It is great, definitely. Just not for me.
 
     I think there is "short", and there is "too short". Besides having a background in math (Master), I was only efficient at coding Maple, which if you look at all the job advertising requirement, Maple is no where to be found. I know that I need to learn a new programming language (Python), as well as all the basic skills for being a data scientis. And 7 weeks is just **too short .**
 
