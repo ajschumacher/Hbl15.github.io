@@ -38,6 +38,7 @@ I am an aspiring data scientist and math enthusiast. I am finishing up my master
 
 ### Contact me:
 
-If you have some of the same interests or random facts and wanna talk, shoot me an email. I like talking to people.
+If you have some of the same interests or random facts and wanna talk, shoot me an email at:
+luu_baoha@yahoo.com
 
 
