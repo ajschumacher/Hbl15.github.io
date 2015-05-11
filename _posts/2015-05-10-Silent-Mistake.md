@@ -69,7 +69,7 @@ for CUS_k, CUS_v in tempdict.items():
 All sounds good right? I don't even have those <strike>annoying</strike> error message...
 
 ### Well,  I was deadly wrong!!!
-Lucky, I was running on a relatively smalle set of data that have only 7 days in total. Guess what, my result only have a dictionary of 6 days. I was consistenly missing a day without know why... 
+Lucky, I was running on a relatively small set of data that have only 7 days in total. Guess what, my result only have a dictionary of 6 days. I was consistenly missing a day without know why... 
 
 
 So why? *starting to pull my hair out...*
@@ -87,10 +87,10 @@ What I want to do is : For item in M, M[item] is a key.
 But since M has repated items, I don't want to recreate the key and might accidently earease all the value I saved in that key. Best way would be go through this list, after you saved a key and its value, you remove the key from the list.
 
 THis is how it runs:
-	Step 1 : a in M, so make M[a] to  be key
+	Step 1: a in M, so make M[a] to  be key
 			 Remove a from M
 			 Now go through the rest of the list to see if you find any other a, save there data in the value of M[a], then remove them.
-	Step 2 : Move on to the next item.
+	Step 2: Move on to the next item.
 
 But here is the crucial thing. Because you remove a, now M = [b,c,m]
 An For loop now go to the **second** position in M, which is **c** and entirely skip b !!!
