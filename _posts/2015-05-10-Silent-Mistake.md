@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why Metis? - A thorough analysis (Part 2).
+---
+
 #Silent Mistakes in Coding
 
 I know we all have that moment when we are excitedly waiting for our program to print out the result, and all we get are these ** <span style="color:red">bright red lines</span>** on the screen saying there are **errors**...Don't know about you, but some of those times make me wanna pull my hair out :p.
@@ -13,7 +18,7 @@ I came across this while working on my Beson project. For Beson, I had to take t
 This is how the data looks like :
 
 ```
-C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS                                                         A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,04:00:00,REGULAR,0005117157,0001732685                                     
+C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS                                                                                            
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,08:00:00,REGULAR,0005117176,0001732693                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,12:00:00,REGULAR,0005117185,0001732696                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,16:00:00,REGULAR,0005117403,0001732748                                     
