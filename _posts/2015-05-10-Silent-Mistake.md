@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Metis? - A thorough analysis (Part 2).
+title: Silent Mistakes.
 ---
 
 #Silent Mistakes in Coding
