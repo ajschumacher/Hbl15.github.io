@@ -11,6 +11,7 @@ So here are some of the silent mistakes that I encounter recently:
 
 I came across this while working on my Beson project. For Beson, I had to take the MTA turnstile data and group the total entries for all turnstile at the same station in the same day... (phew that was a mouth full). 
 This is how the data looks like :
+
 ```
 C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS                                                         A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,04:00:00,REGULAR,0005117157,0001732685                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,08:00:00,REGULAR,0005117176,0001732693                                     
@@ -23,7 +24,7 @@ A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/03/2015,08:00:00,REGULAR,00051180
 ```     
 
 So for starter, I just wanna find a list of date without repeat (I was just starting Python then..so no judgment here.)
-This is what I thought to be my <strike>clever<\strike> solution:
+This is what I thought to be my <strike>clever</strike> solution:
 
 * Take the date column, put them into a list and called them list of dates.
 
@@ -61,7 +62,7 @@ for CUS_k, CUS_v in tempdict.items():
 # print Updated_CUS.values()
 ```
 
-All sounds good right? I don't even have those <strike>annoying<\strike> error message...
+All sounds good right? I don't even have those <strike>annoying</strike> error message...
 
 ### Well,  I was deadly wrong!!!
 Lucky, I was running on a relatively smalle set of data that have only 7 days in total. Guess what, my result only have a dictionary of 6 days. I was consistenly missing a day without know why... 
