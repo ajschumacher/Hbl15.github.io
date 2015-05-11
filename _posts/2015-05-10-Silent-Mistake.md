@@ -18,9 +18,7 @@ I came across this while working on my Beson project. For Beson, I had to take t
 This is how the data looks like :
 
 ```
-C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS                                                                                            
-A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,08:00:00,REGULAR,0005117176,0001732693                                     
-A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,12:00:00,REGULAR,0005117185,0001732696                                     
+C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,16:00:00,REGULAR,0005117403,0001732748                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/02/2015,20:00:00,REGULAR,0005117774,0001732779                                     
 A002,R051,02-00-00,LEXINGTON AVE,NQR456,BMT,05/03/2015,00:00:00,REGULAR,0005117965,0001732825                                     
