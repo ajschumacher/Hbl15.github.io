@@ -1,7 +1,4 @@
----
-layout: post
-title: Easy Way to Understand Entropy for Decision Tree.
----
+
 <head>
 	<script type="text/javascript"
             src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> 
