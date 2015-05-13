@@ -24,3 +24,5 @@ Answer with example: Say you look at a population and you care about gender. If 
 
  	$$
  ```
+
+ 
