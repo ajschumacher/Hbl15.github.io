@@ -14,13 +14,13 @@ I was curious about it, so I spend sometime reading wiki and some other literatu
 ### What is entropy?
 Common answer: Entropy measure how mixed-up/impure your data is.
 
-Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as coming across a female).
+Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as as to come across a female).
 
 * And if you want some math equation:
 
 S ={5 males, 5 females}
 
-Entropy(S) = -p<sub>male</sub>log<sub>2</sub>p<sub>male</sub> - p<sub>female</sub>log<sub>2</sub>p<sub>female</sub>) 
+Entropy(S) = -p<sub>male</sub>log<sub>2</sub>p<sub>male</sub> - p<sub>female</sub>log<sub>2</sub>p<sub>female</sub> 
 
 Entropy(S) = -1/2log<sub>2</sub>(1/2) - 1/2log<sub>2</sub>(1/2) = 1 
 
@@ -28,7 +28,7 @@ Entropy(S) = -1/2log<sub>2</sub>(1/2) - 1/2log<sub>2</sub>(1/2) = 1
 
 Short Answer: Compare the entropy of all features, find the one with lowest entropy.
 
-Long Answer: (to be continue tomorrow, stay tune)
+Detail Answer: (to be continue tomorrow, stay tune)
 
 
  
