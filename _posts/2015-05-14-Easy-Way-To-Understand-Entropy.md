@@ -2,9 +2,7 @@
 layout: post
 title: Easy Way to Understand Entropy for Decision Tree.
 ---
-<script type="text/javascript"
-            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+
 How do you built a Decision Tree? 
 
 Easiest answer: [sklearn.DecisionTreeClassifier](http://scikit-learn.org/stable/modules/tree.html)
@@ -21,7 +19,7 @@ Answer with example: Say you look at a population and you care about gender. If 
 
 * And if you want some math equation:
 
-S ={5 males, 5 females }
+S ={5 males, 5 females}
 
 Entropy(S) = -p_{male}log_2(p_{male}) - p_{female}log_2(p_{female}) 
 
