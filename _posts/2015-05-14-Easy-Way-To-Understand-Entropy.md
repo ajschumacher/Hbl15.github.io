@@ -3,8 +3,6 @@ layout: post
 title: Easy Way to Understand Entropy for Decision Tree.
 ---
 
-#Entropy and Decision Tree 
-
 How do you built a Decision Tree? 
 
 Easiest answer: [sklearn.DecisionTreeClassifier](http://scikit-learn.org/stable/modules/tree.html)
@@ -22,7 +20,7 @@ Answer with example: Say you look at a population and you care about gender. If 
 	* And if you want some math equation:
 
 
-```
+```math
 
  	S ={5 males, 5 female }
 
