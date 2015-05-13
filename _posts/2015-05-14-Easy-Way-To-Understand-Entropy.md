@@ -14,16 +14,16 @@ Common answer: Entropy measure how mixed up/impure is your data.
 
 Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as coming across a female).
 
-	 *	And if you want some math equation:
+	* And if you want some math equation:
 
 
- $$
+```math
  	S ={5 males, 5 female }
 
  	Entropy(S) = -p_{male}log_2(p_{male}) - p_{female}log_2(p_{female})
 
  	Entropy(S) = -1/2log_2(1/2) -1/2log_2(1/2) = 1 
 
- $$
+ ```
  
 
