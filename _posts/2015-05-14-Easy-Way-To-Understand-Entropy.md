@@ -2,6 +2,8 @@
 layout: post
 title: Easy Way to Understand Entropy for Decision Tree.
 ---
+
+\\[ x_2 \\]
  
 How do you built a Decision Tree? 
 
