@@ -18,13 +18,11 @@ Answer with example: Say you look at a population and you care about gender. If 
 
 * And if you want some math equation:
 
-```
 S ={5 males, 5 females}
 
 Entropy(S) = -p<sub>male</sub>log<sub>2</sub>p<sub>male</sub> - p<sub>female</sub>log<sub>2</sub>p<sub>female</sub>) 
 
 Entropy(S) = -1/2log<sub>2</sub>(1/2) - 1/2log<sub>2</sub>(1/2) = 1 
-```
 
 ### How does entropy help building decision tree?
 
