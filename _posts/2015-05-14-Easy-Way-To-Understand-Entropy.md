@@ -15,7 +15,7 @@ I was curious about it, so I spend sometime reading wiki and some other literatu
 
 
 ### What is entropy?
-Common answer: Entropy measure how mixed up/impure is your data.
+Common answer: Entropy measure how mixed-up/impure your data is.
 
 Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as coming across a female).
 
