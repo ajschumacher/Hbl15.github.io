@@ -22,14 +22,13 @@ Answer with example: Say you look at a population and you care about gender. If 
 	* And if you want some math equation:
 
 
-```math
+```
 
  	S ={5 males, 5 female }
 
- 	Entropy(S) = -p_{male}log_2(p_{male}) - p_{female}log_2(p_{female})
+ 	$Entropy(S) = -p_{male}log_2(p_{male}) - p_{female}log_2(p_{female})$
 
- 	
- 	Entropy(S) = -1/2log_2(1/2) -1/2log_2(1/2) = 1 
+ 	$Entropy(S) = -1/2log_2(1/2) -1/2log_2(1/2) = 1$ 
 
  ```
  
