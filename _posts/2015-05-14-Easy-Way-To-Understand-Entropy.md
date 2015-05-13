@@ -2,7 +2,9 @@
 layout: post
 title: Easy Way to Understand Entropy for Decision Tree.
 ---
-
+<script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 How do you built a Decision Tree? 
 
 Easiest answer: [sklearn.DecisionTreeClassifier](http://scikit-learn.org/stable/modules/tree.html)
