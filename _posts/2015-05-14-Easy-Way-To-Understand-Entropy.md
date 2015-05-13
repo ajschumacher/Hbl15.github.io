@@ -11,21 +11,21 @@ Ok, now that I get that out of the way, how do you build a decision tree from sc
 
 I was curious about it, so I spend sometime reading wiki and some other literature. They were...--tough-- to get through. I did however to get through them after 5 hours @_@... To save time for you, this is my simple write up of how to build a decision tree:
 
-
 ### What is entropy?
 Common answer: Entropy measure how mixed-up/impure your data is.
 
 Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as coming across a female).
 
 * And if you want some math equation:
-
+```
 S ={5 males, 5 females}
 
-Entropy(S) = -p<sub>male</sub>log<sub>2</sub>p(male) - p<sub>female</sub>log<sub>2</sub>p(female)</sub>) 
-
-
+Entropy(S) = -p<sub>male</sub>log<sub>2</sub>p<sub>male</sub> - p<sub>female</sub>log<sub>2</sub>p<sub>female</sub>) 
 
 Entropy(S) = -1/2log<sub>2</sub>(1/2) - 1/2log<sub>2</sub>(1/2) = 1 
+```
+### How does entropy help building decision tree?
+Short Answer: Compare the entropy of all features, find the one with lowest entropy
 
 
  
