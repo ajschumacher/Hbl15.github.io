@@ -20,7 +20,7 @@ links:
     external:     true
 highlighter:      pygments
 permalink:        pretty
-markdown:         kramdown
+markdown:         recarpet
 redcarpet:
   extensions:
     - smart
