@@ -1,8 +1,8 @@
 #Entropy and Decision Tree 
 
-How do you built a Decision Tree? Easiest answer:
+How do you built a Decision Tree? 
 
-sklearn.DecisionTreeClassifier
+Easiest answer: [~~sklearn.DecisionTreeClassifier~~](http://scikit-learn.org/stable/modules/tree.html)
 
 Ok, now that I get that out of the way, how do you build a decision tree from scratch? Which features to choose as the root, as the nodes in the next level, as the node in the next next level...? 
 
@@ -14,6 +14,7 @@ Common answer: Entropy measure how mixed up/impure is your data.
 
 Answer with example: Say you look at a population and you care about gender. If you have 5 males and 5 females, your entropy is HIGH (=1) because your population is very well mixed (you are as likely to come across a male as coming across a female).
  *	And if you want some math equation:
+ 
 ```
  	$$
  	S ={5 males, 5 female }
@@ -25,4 +26,3 @@ Answer with example: Say you look at a population and you care about gender. If 
  	$$
  ```
 
- 
