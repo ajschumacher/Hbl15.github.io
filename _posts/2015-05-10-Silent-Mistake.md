@@ -14,7 +14,7 @@ So here are some of the silent mistakes that I encounter recently:
 
 ### Listen to your teacher, don't mess with the FOR condition:
 
-I came across this while working on my Beson project. For Beson, I had to take the MTA turnstile data and group the total entries for all turnstile at the same station in the same day... (phew that was a mouth full). 
+I came across this while working on my Benson project. For Benson, I had to take the MTA turnstile data and group the total entries for all turnstile at the same station in the same day... (phew that was a mouth full). 
 This is how the data looks like :
 
 ```
